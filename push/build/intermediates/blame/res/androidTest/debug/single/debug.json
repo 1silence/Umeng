@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\demo\\UmengDemo\\push\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_upush_notification.xml.flat",
+        "source": "D:\\android\\demo\\UmengDemo\\push\\build\\intermediates\\bundles\\debug\\res\\layout\\upush_notification.xml"
+    },
+    {
+        "merged": "D:\\android\\demo\\Umeng\\push\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_upush_notification.xml.flat",
+        "source": "D:\\android\\demo\\Umeng\\push\\build\\intermediates\\bundles\\debug\\res\\layout\\upush_notification.xml"
+    }
+]
