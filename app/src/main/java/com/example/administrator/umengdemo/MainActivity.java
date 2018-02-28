@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         PushAgent.getInstance(this).onAppStart();
         MobclickAgent.setScenarioType(this, MobclickAgent.EScenarioType.E_UM_NORMAL);
         MobclickAgent.setSessionContinueMillis(1000);
+        //
     }
 
     public void onResume() {
